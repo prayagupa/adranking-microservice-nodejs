@@ -1,0 +1,114 @@
+{
+    "main": [
+        {
+            "type": "image",
+            "key": "tiles",
+            "url": "assets/images/nestle2.png"
+        },
+        {
+            "type": "spritesheet",
+            "key": "frog",
+            "url": "assets/sprites/science-frames.png",
+            "frameWidth": 79,
+            "frameHeight": 64
+        },
+        {
+            "type": "image",
+            "key": "dino-plate",
+            "url": "assets/sprites/dino-plate.png",
+            "frameWidth": 41,
+            "frameHeight": 43
+        },
+        {
+            "type": "image",
+            "key": "glasses",
+            "url": "assets/images/glasses.png"
+        },
+        {
+            "type": "spritesheet",
+            "key": "toad",
+            "url": "assets/sprites/toad.png",
+            "frameWidth": 69,
+            "frameHeight": 64
+        },
+        {
+            "type": "spritesheet",
+            "key": "dinosaur",
+            "url": "assets/sprites/dinosaur-frames.png",
+            "frameWidth": 456,
+            "frameHeight": 192
+        },
+        {
+            "type": "spritesheet",
+            "key": "pencil",
+            "url": "assets/sprites/pencil.png",
+            "frameWidth": 32,
+            "frameHeight": 32
+        },
+        {
+            "type": "spritesheet",
+            "key": "flask",
+            "url": "assets/sprites/flask.png",
+            "frameWidth": 32,
+            "frameHeight": 32
+        },
+        {
+            "type": "spritesheet",
+            "key": "hammer",
+            "url": "assets/sprites/hammer.png",
+            "frameWidth": 32,
+            "frameHeight": 32
+        },
+        {
+            "type": "spritesheet",
+            "key": "brace",
+            "url": "assets/sprites/brace.png",
+            "frameWidth": 32,
+            "frameHeight": 32
+        },
+        {
+            "type": "audio",
+            "key": "DangerStorm",
+            "urls": ["assets/audio/Danger_Storm.mp3"]
+        },
+        {
+            "type": "audio",
+            "key": "Ouroboros",
+            "urls": ["assets/audio/Ouroboros.mp3"]
+        },
+        {
+            "type": "audio",
+            "key": "jump",
+            "urls": ["assets/audio/146726__fins__jumping.mp3"]
+        },
+        {
+            "type": "audio",
+            "key": "thud",
+            "urls": ["assets/audio/215162__otisjames__thud.mp3"]
+        },
+        {
+            "type": "audio",
+            "key": "die",
+            "urls": ["assets/audio/219723__b-lamerichs__8.mp3"]
+        },
+        {
+            "type": "audio",
+            "key": "roar",
+            "urls": ["assets/audio/roar.mp3"]
+        },
+        {
+            "type": "tilemap",
+            "key": "LevelSandbox",
+            "url": "assets/stage0.json",
+            "data": null,
+            "format": "TILED_JSON"
+        },
+        {
+            "type": "tilemap",
+            "key": "Level1",
+            "url": "assets/stage1.json",
+            "data": null,
+            "format": "TILED_JSON"
+        }
+    ]
+}
