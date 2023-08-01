@@ -1,7 +1,10 @@
 
 
-# Ship it js-game
+# Ad Selection Micro Service
 
+```
+npm install
+```
 Build docker image
 ----------------------
 ```
